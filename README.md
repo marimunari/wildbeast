@@ -5,7 +5,7 @@ Projeto realizado durante o curso <a href="https://www.origamid.com/curso/css-gr
 ## CSS Grid
 O CSS Grid Layout oferece um sistema de layout baseado em grade, com linhas e colunas, facilitando o design de páginas da web sem precisar usar floats e posicionamento.
 
-### Conteúdo abordado <a href="origamid.com/projetos/css-grid-layout-guia-completo/" target="_blank">:page_with_curl:</a>
+### Conteúdo abordado :page_with_curl:
 #### Grid Container:
 <ul>
   <li>grid-template-columns</li>
