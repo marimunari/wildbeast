@@ -8,6 +8,7 @@ O CSS Grid Layout oferece um sistema de layout baseado em grade, com linhas e co
 ### Conteúdo abordado :page_with_curl:
 #### Grid Container:
 <ul>
+  <li>display</li>
   <li>grid-template-columns</li>
   <li>grid-template-rows</li>
   <li>grid-template-areas</li>
